@@ -61,7 +61,7 @@ The following machine learning models were trained and evaluated for fake news c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Fake-News-Detection.git
+git clone https://github.com/ashitha06/Fake-News-Detection.git
 ```
 
 2. Navigate to the project directory:
