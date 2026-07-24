@@ -106,11 +106,11 @@ Fake-News-Detection/
 
 ### Streamlit Web Application
 
-*(Insert your Streamlit app screenshot here.)*
+![Streamlit App](images/streamlit_app.png)
 
 ### Model Performance Comparison
 
-*(Insert the accuracy comparison graph here.)*
+![Model Accuracy](images/model_accuracy.png)
 
 ## 🚀 Future Improvements
 
