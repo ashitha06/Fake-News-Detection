@@ -1,4 +1,4 @@
-# 📰 Fake News Detection using Machine Learning and NLPsss
+# 📰 Fake News Detection using Machine Learning and NLP
 
 ## 📌 Project Overview
 This project is a Machine Learning-based web application that predicts whether a news article is **Fake** or **Real**. The model is trained on a labeled dataset using Natural Language Processing (NLP) techniques and deployed using Streamlit.
